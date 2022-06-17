@@ -9,7 +9,7 @@ r/place
 David Darmanger, Clément Brigliano, Owen Gombas
 
 # Mode d'emploi
-- Pour lancer le projet, il suffit de lancer **index.html** dans le dossier `/plots/html`
+- Pour lancer le projet, il suffit de lancer **index.html** dans le dossier `/plots/html` ou d'aller directement sur le [site déployé](https://owencalvin.github.io/r_place/)
 
 ## Structures
 - Les différents notebooks se trouvent dans `/data_processing` et dans `/plots`
